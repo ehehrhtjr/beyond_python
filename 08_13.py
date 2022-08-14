@@ -77,11 +77,6 @@ while run:
     p.draw.rect(screen,(255,255,255),pos)
     
     
-    if pos[0]<=pos2[0]<=pos[0]+size or pos2[0]<=pos[0]<=pos2[0]+size:
-        if pos[1]<=pos2[1]<=pos[1]+size or pos2[1]<=pos[1]<=pos2[1]+size:
-            
-            p.draw.rect(screen,(255,0,0),pos2)
-            p.draw.rect(screen,(255,0,0),pos)
-    
+
     p.display.update()
 p.quit()
