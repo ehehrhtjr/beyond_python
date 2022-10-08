@@ -21,7 +21,7 @@ while run:
             run=False
                 
     screen.fill(white)
-    screen.blit(car_image,(width/2-size/2,height/2-size/2))
+    screen.blit(gun_image,(width/2-size/2,height/2-size/2))
     pygame.draw.circle(screen,black,(width/2+200,height/2),50)
     pygame.display.update()
 
