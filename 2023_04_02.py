@@ -62,5 +62,5 @@ while run:
 
 p.quit()
 
-            
+#https://url.kr/c2jwbn
 
