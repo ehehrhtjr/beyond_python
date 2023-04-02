@@ -62,5 +62,5 @@ while run:
 
 p.quit()
 
-#https://url.kr/c2jwbn
+#https://drive.google.com/drive/folders/1m7c5OlAEZYGb1RQXifoYkXgNizgw5bde?usp=share_link
 
